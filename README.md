@@ -7,14 +7,6 @@ Web Developer with a background in Computer Science, experienced in building acc
 - B.E in Computer Science and Engineering (Data Science)
 - Diploma in Computer Engineering
 
-## Experience
-
-Full Stack Developer - Intern
-
-- UI enhancement.
-- Backend Operations (PHP).
-- Database revamp from Firebase RealTime Database to MySQL.
-
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/abhishek-ganapure/)
@@ -23,4 +15,4 @@ Full Stack Developer - Intern
 
 ## Browse my blogs
 
-> Visit my [personal website](https://abhishekganapure.vercel.app) to read articles where I share my learnings and projects
+> Visit my [personal website](https://abhishekganapure.vercel.app) where I write about the learnings I made all along the journey.
