@@ -10,7 +10,7 @@ Web Developer with a background in Computer Science, experienced in building acc
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/abhishek-ganapure/)
-- [Mail](mailto:abhishekganapure22.com)
+- [Mail](mailto:abhishekganapure22@gmail.com)
 - [Personal Website](https://abhishekganapure.vercel.app)
 
 ## Browse my blogs
